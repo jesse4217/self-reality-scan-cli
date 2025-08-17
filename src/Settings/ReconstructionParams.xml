@@ -1,0 +1,24 @@
+<Configuration id="{FA277437-BE1D-47B3-AC9A-87D271FD47D5}">
+  <entry key="mvsPreviewDownscaleFactor" value="4"/>
+  <entry key="mvsMaxVertexCountInPart" value="5000000"/>
+  <entry key="MvsGeometryGpuAccel" value="true"/>
+  <entry key="mvsAdaptiveBlendingStart" value="0.44999999"/>
+  <entry key="mvsMinSampleDistance" value="0.0"/>
+  <entry key="mvsDecimationFactor" value="1.0"/>
+  <entry key="mvsFilteringStrength" value="2"/>
+  <entry key="mvsLowTextureNoiseFactor" value="2.0"/>
+  <entry key="mvsDefaultNoiseFactor" value="1.0"/>
+  <entry key="MvsNormalUndistMaxPixels" value="0"/>
+  <entry key="mvsMaxSampleDistanceLaserScan" value="150.0"/>
+  <entry key="MvsDepthMapsLibVersion" value="1"/>
+  <entry key="mvsImportMaxTrianglesPerPart" value="100000000"/>
+  <entry key="mvsFilteringRadius" value="3.0"/>
+  <entry key="mvsDefaultGroupingFactor" value="1.0"/>
+  <entry key="mvsSmoothingWeight" value="1.5"/>
+  <entry key="MvsPreviewUndistMaxPixels" value="0"/>
+  <entry key="mvsNormalDownscaleFactor" value="3"/>
+  <entry key="mvsPreviewMeshStrategy" value="sfm"/>
+  <entry key="mvsLowTextureGroupingFactor" value="0.25"/>
+  <entry key="mvsMinSampleDistanceLaserScan" value="0.002"/>
+  <entry key="mvsMinIntensityLaserScan" value="0.03"/>
+</Configuration>

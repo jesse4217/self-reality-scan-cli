@@ -1,0 +1,10 @@
+<ReconstructionRegion globalCoordinateSystem="+proj=geocent +ellps=WGS84 +no_defs" globalCoordinateSystemWkt=""
+   globalCoordinateSystemName="Local:1 - Euclidean" isGeoreferenced="1"
+   isLatLon="0" yawPitchRoll="0 -0 -0">
+  <widthHeightDepth>192.388046264648 220.761077880859 207.096893310547</widthHeightDepth>
+  <Header magic="5395016" version="2"/>
+  <CentreEuclid>
+    <centre>8.76800155639648 -1.16839647293091 -85.679557800293</centre>
+  </CentreEuclid>
+  <Residual R="1 0 0 0 1 0 0 0 1" t="0 0 0" s="1" ownerId="{9EB11688-1DD7-4222-B065-E2EEC10C9C80}"/>
+</ReconstructionRegion>
